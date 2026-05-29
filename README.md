@@ -16,7 +16,7 @@
 class Praveen:
     def __init__(self):
         self.name         = "Praveen R"
-        self.username     = "praveenrl506"
+        self.username     = "praveenr1506-dot"
         self.location     = "Chennai, India 🇮🇳"
         self.degree       = "B.Tech - Information Technology (2027)"
         self.cgpa         = 7.19
@@ -93,11 +93,11 @@ print(me.motto())
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/praveenrl506">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=praveenrl506&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <a href="https://github.com/praveenr1506-dot">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=praveenr1506-dot&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
-  <a href="https://github.com/praveenrl506">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenrl506&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <a href="https://github.com/praveenr1506-dot">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenr1506-dot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
 </div>
 
@@ -106,7 +106,7 @@ print(me.motto())
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=praveenrl506&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=praveenr1506-dot&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -114,7 +114,7 @@ print(me.motto())
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=praveenrl506&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=praveenr1506-dot&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
 </div>
 
 ---
@@ -122,7 +122,7 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=praveenrl506&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=praveenr1506-dot&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
 </div>
 
 ---
@@ -154,9 +154,9 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |---------|-------|------------|
-| [🔐 AI-Driven Autonomous Penetration Testing (Strix)](https://github.com/praveenrl506) | Python · Docker · OWASP · AI | Automated recon & vulnerability detection on web apps; containerized targets; documented OWASP findings with execution insights |
-| [🎬 Automated AI Cinematic Previsualization](https://github.com/praveenrl506) | Python · spaCy · NLP · Unity · Rule-Based AI | Processed screenplay text via NLP to extract cinematic elements; auto-initialized camera & lighting for 3D previsualization, cutting manual effort in early-stage film planning |
-| [📄 AI-Powered Resume Skill Extractor](https://github.com/praveenrl506) | Python · Flask · spaCy · HTML/CSS | NLP-driven tool to extract & structure skills from resumes; enables faster candidate evaluation with structured output |
+| [🔐 AI-Driven Autonomous Penetration Testing (Strix)](https://github.com/praveenr1506-dot) | Python · Docker · OWASP · AI | Automated recon & vulnerability detection on web apps; containerized targets; documented OWASP findings with execution insights |
+| [🎬 Automated AI Cinematic Previsualization](https://github.com/praveenr1506-dot) | Python · spaCy · NLP · Unity · Rule-Based AI | Processed screenplay text via NLP to extract cinematic elements; auto-initialized camera & lighting for 3D previsualization, cutting manual effort in early-stage film planning |
+| [📄 AI-Powered Resume Skill Extractor](https://github.com/praveenr1506-dot) | Python · Flask · spaCy · HTML/CSS | NLP-driven tool to extract & structure skills from resumes; enables faster candidate evaluation with structured output |
 
 </div>
 
@@ -206,7 +206,7 @@ print(me.motto())
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=praveenrl506&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=praveenr1506-dot&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views"/>
   &nbsp;
   <a href="mailto:praveenrl506@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
@@ -216,7 +216,7 @@ print(me.motto())
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://github.com/praveenrl506">
+  <a href="https://github.com/praveenr1506-dot">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
