@@ -1,14 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Praveen%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=IT%20Student%20%E2%80%A2%20AI%20%26%20Cybersecurity%20Enthusiast%20%E2%80%A2%20Builder&descAlignY=62&descSize=18" width="100%"/>
-
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Praveen+R+%F0%9F%91%8B;AI+%7C+Cybersecurity+%7C+Full-Stack+Dev;OWASP+%7C+Penetration+Testing+%7C+NLP;Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+
+![header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=42&duration=4000&pause=500&color=70A5FD&center=true&vCenter=true&width=800&height=80&lines=Hi+There!+I'm+Praveen+R+%F0%9F%91%8B)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=BF91F3&center=true&vCenter=true&width=750&lines=IT+Student+%40+SVCE+Chennai;AI+%7C+Cybersecurity+%7C+NLP+Builder;OWASP+%7C+Penetration+Testing+%7C+Flask;Automate+Everything.+Secure+Everything.+%F0%9F%9A%80)](https://git.io/typing-svg)
+
 </div>
 
-<br/>
+---
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ```python
 # praveen.py
@@ -93,9 +93,9 @@ print(me.motto())
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=praveenr1506-dot&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&rank_icon=github"/>
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenr1506-dot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=praveenr1506-dot&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" height="180em"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenr1506-dot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" height="180em"/>
 </div>
 
 ---
@@ -103,7 +103,7 @@ print(me.motto())
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=praveenr1506-dot&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=praveenr1506-dot&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -137,9 +137,9 @@ print(me.motto())
 > ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 - Worked on AI-integrated projects involving system testing and data management pipelines
-- Assisted in organized testing activities, identifying system performance bottlenecks
+- Assisted in testing activities, identifying system performance bottlenecks
 - Prepared structured reports documenting system behaviour and improvement recommendations
-- Gained hands-on exposure to applying technology solutions that measurably improved system performance
+- Gained hands-on exposure applying technology solutions to improve system performance
 
 </details>
 
@@ -152,8 +152,8 @@ print(me.motto())
 | Project | Stack | Highlights |
 |---------|-------|------------|
 | [🔐 AI-Driven Autonomous Penetration Testing (Strix)](https://github.com/praveenr1506-dot) | Python · Docker · OWASP · AI | Automated recon & vulnerability detection on web apps; containerized targets; documented OWASP findings with execution insights |
-| [🎬 Automated AI Cinematic Previsualization](https://github.com/praveenr1506-dot) | Python · spaCy · NLP · Unity · Rule-Based AI | Processed screenplay text via NLP to extract cinematic elements; auto-initialized camera & lighting for 3D previsualization, cutting manual effort in early-stage film planning |
-| [📄 AI-Powered Resume Skill Extractor](https://github.com/praveenr1506-dot) | Python · Flask · spaCy · HTML/CSS | NLP-driven tool to extract & structure skills from resumes; enables faster candidate evaluation with structured output |
+| [🎬 Automated AI Cinematic Previsualization](https://github.com/praveenr1506-dot) | Python · spaCy · NLP · Unity · Rule-Based AI | NLP pipeline to extract cinematic elements from screenplays; auto-initialized camera & lighting for 3D previsualization |
+| [📄 AI-Powered Resume Skill Extractor](https://github.com/praveenr1506-dot) | Python · Flask · spaCy · HTML/CSS | NLP tool to extract & structure skills from resumes; enables faster candidate evaluation |
 
 </div>
 
@@ -165,8 +165,8 @@ print(me.motto())
 
 | 🎖️ | Achievement | Details |
 |----|-------------|---------|
-| 🥉 | **3rd Prize — UI/UX Design Contest** | Saveetha Engineering College — recognized for interface design excellence |
-| 🥈 | **2nd Prize — BIOSCOPE** | Saveetha Engineering College — inter-college competition |
+| 🥉 | **3rd Prize — UI/UX Design Contest** | Saveetha Engineering College |
+| 🥈 | **2nd Prize — BIOSCOPE** | Saveetha Engineering College |
 | 🛡️ | **Cyber Security & Ethical Hacking** | Certified by HCL GUVI |
 | ☁️ | **Microsoft Applied AI Challenge** | Azure AI Foundry — Microsoft |
 | 🔒 | **Introduction to Cyber Security** | Infosys Springboard |
@@ -218,6 +218,8 @@ print(me.motto())
   </a>
 </div>
 
-<br/>
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8F;Let's+connect+and+build+something+awesome!+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
