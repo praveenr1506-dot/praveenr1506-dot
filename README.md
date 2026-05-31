@@ -1,8 +1,10 @@
 <div align="center">
 
-![header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=42&duration=4000&pause=500&color=70A5FD&center=true&vCenter=true&width=800&height=80&lines=Hi+There!+I'm+Praveen+R+%F0%9F%91%8B)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=4000&pause=500&color=70A5FD&center=true&vCenter=true&width=800&height=80&lines=Hi+There!+I'm+Praveen+R+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=BF91F3&center=true&vCenter=true&width=750&lines=IT+Student+%40+SVCE+Chennai;AI+%7C+Cybersecurity+%7C+NLP+Builder;OWASP+%7C+Penetration+Testing+%7C+Flask;Automate+Everything.+Secure+Everything.+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=BF91F3&center=true&vCenter=true&width=750&lines=IT+Student+%40+SVCE+Chennai;AI+%7C+Cybersecurity+%7C+NLP+Builder;OWASP+%7C+Penetration+Testing+%7C+Flask;Automate.+Secure.+Build.+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=praveenr1506-dot&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views"/>
 
 </div>
 
@@ -18,7 +20,7 @@ class Praveen:
         self.name         = "Praveen R"
         self.username     = "praveenr1506-dot"
         self.location     = "Chennai, India 🇮🇳"
-        self.degree       = "B.Tech - Information Technology (2027)"
+        self.degree       = "B.Tech - IT @ SVCE (2027)"
         self.cgpa         = 7.19
 
         self.stack        = [
@@ -40,7 +42,7 @@ class Praveen:
             "OWASP Top 10 Exploitation"
         ]
 
-        self.fun_fact     = "I built an AI that reads screenplays 🎬"
+        self.fun_fact = "I built an AI that reads screenplays 🎬"
 
     def motto(self):
         return "Automate Everything. Secure Everything. Build Everything."
@@ -92,10 +94,12 @@ print(me.motto())
 
 ## 📊 GitHub Stats
 
+> ⚠️ **If cards below show errors:** Go to [github-readme-stats.vercel.app](https://github-readme-stats.vercel.app) → click **"Deploy your own"** → deploy a free personal instance → replace `github-readme-stats.vercel.app` with your own instance URL. This is a one-time 2-min fix.
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praveenr1506-dot&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" height="180em"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=praveenr1506-dot&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenr1506-dot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" height="180em"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenr1506-dot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </div>
 
 ---
@@ -151,9 +155,9 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |---------|-------|------------|
-| [🔐 AI-Driven Autonomous Penetration Testing (Strix)](https://github.com/praveenr1506-dot) | Python · Docker · OWASP · AI | Automated recon & vulnerability detection on web apps; containerized targets; documented OWASP findings with execution insights |
-| [🎬 Automated AI Cinematic Previsualization](https://github.com/praveenr1506-dot) | Python · spaCy · NLP · Unity · Rule-Based AI | NLP pipeline to extract cinematic elements from screenplays; auto-initialized camera & lighting for 3D previsualization |
-| [📄 AI-Powered Resume Skill Extractor](https://github.com/praveenr1506-dot) | Python · Flask · spaCy · HTML/CSS | NLP tool to extract & structure skills from resumes; enables faster candidate evaluation |
+| [🔐 AI-Driven Autonomous Penetration Testing (Strix)](https://github.com/praveenr1506-dot) | Python · Docker · OWASP · AI | Automated recon & vulnerability detection on web apps; containerized targets; OWASP findings documented |
+| [🎬 Automated AI Cinematic Previsualization](https://github.com/praveenr1506-dot) | Python · spaCy · NLP · Unity | NLP pipeline extracts cinematic elements from screenplays; auto-initializes camera & lighting for 3D previsualization |
+| [📄 AI-Powered Resume Skill Extractor](https://github.com/praveenr1506-dot) | Python · Flask · spaCy · HTML/CSS | NLP tool extracts & structures skills from resumes; faster candidate evaluation |
 
 </div>
 
@@ -193,33 +197,29 @@ print(me.motto())
 ## 🧠 Currently Learning
 
 ```
-🛡️  Advanced Penetration Testing     →  Metasploit · Burp Suite · CVE Analysis
-☁️  Azure AI Foundry                  →  AI Studio · Prompt Flow · Model Deployments
-🔓  Web Application Security          →  OWASP Top 10 · SQL Injection · XSS · CSRF
-🐧  Linux for Security                →  Kali Linux · Shell Scripting · Network Recon
-🤖  NLP & AI Pipelines                →  spaCy · Transformers · Named Entity Recognition
+🛡️  Advanced Penetration Testing  →  Metasploit · Burp Suite · CVE Analysis
+☁️  Azure AI Foundry               →  AI Studio · Prompt Flow · Model Deployments
+🔓  Web Application Security       →  OWASP Top 10 · SQL Injection · XSS · CSRF
+🐧  Linux for Security             →  Kali Linux · Shell Scripting · Network Recon
+🤖  NLP & AI Pipelines             →  spaCy · Transformers · Named Entity Recognition
 ```
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=praveenr1506-dot&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views"/>
-  &nbsp;
-  <a href="mailto:praveenrl506@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/praveen-ramesh-0484882a6/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/praveenr1506-dot">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
 
-<div align="center">
+<a href="mailto:praveenrl506@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/praveen-ramesh-0484882a6/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://github.com/praveenr1506-dot">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8F;Let's+connect+and+build+something+awesome!+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%99%8F;Let's+connect+and+build+something+awesome!+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
